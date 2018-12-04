@@ -7,3 +7,6 @@ dist
 build
 zxcvbn*.egg-info
 .vscode
+.debinate/build/
+.debinate/cache/
+.debinate/target/
